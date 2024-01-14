@@ -1,0 +1,142 @@
+.wrapperLine30Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.011);
+}
+.wrapperLine30 {
+  position: absolute;
+  top: 281.5px;
+  left: 0;
+  width: 655px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine32Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.012);
+}
+.wrapperLine32 {
+  position: absolute;
+  top: 140.8px;
+  left: 101.5px;
+  width: 457.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine33Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.018);
+}
+.wrapperLine31,
+.wrapperLine33 {
+  position: absolute;
+  top: 70.4px;
+  left: 170.5px;
+  width: 297.7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine31 {
+  top: 211.2px;
+  left: 48.7px;
+  width: 567px;
+}
+.aBBContainer,
+.aBContainer,
+.aBContainer1 {
+  position: absolute;
+  top: 281.5px;
+  left: 25.7px;
+  display: inline-block;
+  width: 614.4px;
+}
+.aBBContainer,
+.aBContainer1 {
+  top: 211.2px;
+  left: 48.7px;
+  width: 556.4px;
+}
+.aBBContainer {
+  top: 140.8px;
+  left: 113.7px;
+  width: 426.9px;
+}
+.aBCContainer,
+.cCContainer,
+.id,
+.l,
+.l1,
+.r {
+  position: absolute;
+  top: 70.4px;
+  left: 170.5px;
+  display: inline-block;
+  width: 298.6px;
+}
+.cCContainer,
+.id,
+.l,
+.l1,
+.r {
+  top: 0;
+  left: 253.1px;
+  width: 152.8px;
+}
+.id,
+.l,
+.l1,
+.r {
+  top: 176.6px;
+  left: 640.1px;
+  color: var(--color-black);
+  width: 133.5px;
+}
+.id,
+.l1,
+.r {
+  top: 35.9px;
+  left: 491.2px;
+  width: 96.8px;
+}
+.l1,
+.r {
+  top: 106.2px;
+  left: 587.3px;
+  width: 133.5px;
+}
+.r {
+  top: 247px;
+  left: 688.8px;
+  width: 138.6px;
+}
+.wrapperLine30Parent {
+  position: absolute;
+  top: 570px;
+  left: 329px;
+  width: 827.4px;
+  height: 352.5px;
+  text-align: left;
+  font-size: var(--font-size-39xl-4);
+  color: var(--color-gray-300);
+  font-family: var(--font-inter);
+}

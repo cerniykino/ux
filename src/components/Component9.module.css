@@ -1,0 +1,27 @@
+.component9Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-23xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.askAway {
+  position: absolute;
+  top: 24.07%;
+  left: 18.99%;
+}
+.component9 {
+  width: 179px;
+  height: 54px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

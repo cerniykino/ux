@@ -1,0 +1,190 @@
+.frameChild,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  height: 115px;
+}
+.home {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+.subpage,
+.subpage1,
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  position: absolute;
+  top: 29px;
+  left: 232px;
+  width: 337px;
+  height: 47px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.subpage1,
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 602px;
+  width: 368px;
+}
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 937px;
+  width: 250px;
+}
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 1220px;
+  width: 146px;
+}
+.subpage4,
+.subpage5 {
+  left: 1399px;
+  width: 154px;
+}
+.subpage5 {
+  left: 1586px;
+  width: 131px;
+}
+.brokenEssentionalUiHom {
+  position: absolute;
+  top: 29px;
+  left: 77px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image4Icon,
+.image5Icon,
+.image6Icon {
+  position: absolute;
+  top: 199px;
+  left: 148px;
+  width: 239px;
+  height: 206px;
+  object-fit: cover;
+}
+.image5Icon,
+.image6Icon {
+  top: 500px;
+  left: 1467px;
+  width: 238px;
+  height: 218px;
+}
+.image6Icon {
+  top: 737px;
+  left: 141px;
+  width: 253px;
+  height: 257px;
+}
+.introductionToLogic,
+.mitOpencourseware {
+  position: absolute;
+  top: 215px;
+  left: 486px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.introductionToLogic {
+  top: 265px;
+  display: inline-block;
+  width: 434px;
+  height: 50px;
+}
+.stanfordEncyclopediaOf {
+  position: absolute;
+  top: 511px;
+  left: 602px;
+  display: inline-block;
+  width: 753px;
+  height: 38px;
+}
+.interactiveTutorialsOr,
+.nlabSequentCalculus,
+.stanfordEncyclopediaOf {
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  text-align: right;
+}
+.nlabSequentCalculus {
+  position: absolute;
+  top: 575px;
+  left: 622px;
+  display: inline-block;
+  width: 733px;
+  height: 19px;
+}
+.interactiveTutorialsOr {
+  top: 633px;
+  left: 576px;
+  width: 779px;
+}
+.interactiveTutorialsOr,
+.proofsAndTypes,
+.wikipediaEntryOn {
+  position: absolute;
+  display: inline-block;
+}
+.wikipediaEntryOn {
+  top: 683px;
+  left: 631px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  text-align: right;
+  width: 724px;
+}
+.proofsAndTypes {
+  top: 794px;
+  left: 486px;
+  width: 944px;
+  height: 21px;
+}
+.basicProofTheory,
+.lecturesOnThe {
+  position: absolute;
+  top: 850px;
+  left: 486px;
+}
+.lecturesOnThe {
+  top: 913px;
+}
+.howToUnderstand,
+.introductionToSequent {
+  position: absolute;
+  top: 315px;
+  left: 486px;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.introductionToSequent {
+  top: 365px;
+}
+.rectangleParent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

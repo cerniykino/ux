@@ -1,0 +1,132 @@
+.frameChild,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: #333;
+  width: 1920px;
+  height: 115px;
+}
+.home {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+.subpage,
+.subpage1,
+.subpage2 {
+  position: absolute;
+  top: 29px;
+  left: 115px;
+  width: 84px;
+  height: 47px;
+}
+.subpage1,
+.subpage2 {
+  left: 232px;
+  width: 337px;
+}
+.subpage2 {
+  left: 602px;
+  width: 368px;
+}
+.subpage3,
+.subpage4,
+.subpage5,
+.subpage6 {
+  position: absolute;
+  top: 29px;
+  left: 937px;
+  width: 250px;
+  height: 47px;
+}
+.subpage4,
+.subpage5,
+.subpage6 {
+  left: 1220px;
+  width: 146px;
+}
+.subpage5,
+.subpage6 {
+  left: 1399px;
+  width: 154px;
+}
+.subpage6 {
+  left: 1586px;
+  width: 131px;
+}
+.github,
+.hereWillBe {
+  position: absolute;
+  top: 356px;
+  left: 671px;
+  color: var(--color-black);
+}
+.hereWillBe {
+  top: 327px;
+  left: 1024px;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  text-align: center;
+  width: 101px;
+  height: 29px;
+}
+.comeOnWho {
+  margin: 0;
+}
+.hereIAdd,
+.hereIAm,
+.hereWillBe2,
+.hereWillBeContainer,
+.hereWillLonely {
+  position: absolute;
+  top: 115px;
+  left: 1406px;
+  display: inline-block;
+  color: var(--color-black);
+  width: 139px;
+  height: 228px;
+}
+.hereIAdd,
+.hereIAm,
+.hereWillBe2,
+.hereWillLonely {
+  top: 180px;
+  left: 1190px;
+  width: 137px;
+  height: 210px;
+}
+.hereIAdd,
+.hereWillBe2,
+.hereWillLonely {
+  top: 118px;
+  left: 1004px;
+  width: 130px;
+  height: 105px;
+}
+.hereWillBe2,
+.hereWillLonely {
+  top: 151px;
+  left: 676px;
+  width: 139px;
+  height: 145px;
+}
+.hereWillLonely {
+  top: 136px;
+  left: 276px;
+  width: 223px;
+  height: 201px;
+}
+.rectangleParent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

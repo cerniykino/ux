@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,700;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-27xl-1: 46.1px;
+  --font-size-39xl-4: 58.4px;
+  --font-size-21xl: 40px;
+  --font-size-5xl-5: 24.5px;
+  --font-size-16xl-1: 35.1px;
+  --font-size-9xl: 28px;
+  --font-size-20xl-1: 39.1px;
+  --font-size-21xl-8: 40.8px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+  --font-size-20xl: 39px;
+  --font-size-147xl: 166px;
+  --font-size-4xl: 23px;
+  --font-size-16xl: 35px;
+  --font-size-7xl: 26px;
+  --font-size-8xl: 27px;
+  --font-size-52xl-3: 71.3px;
+  --font-size-11xl-9: 30.9px;
+  --font-size-6xl-9: 25.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #102645;
+  --color-gray-200: #0b001a;
+  --color-gray-300: #090017;
+  --color-ivory: #fffff1;
+  --color-cornsilk: #fefbdf;
+  --color-darkturquoise-100: #00bbce;
+  --color-darkturquoise-200: rgba(0, 188, 211, 0.48);
+  --color-darkslategray: #2f475b;
+  --color-coral: #fd7f42;
+  --color-blueviolet: #9747ff;
+  --color-snow: #fffcfc;
+  --color-lightgray: #cdcdcd;
+
+  /* Border radiuses */
+  --br-4xl: 23px;
+  --br-39xl-3: 58.3px;
+  --br-45xl-1: 64.1px;
+  --br-23xl: 42px;
+  --br-8xs: 5px;
+  --br-6xs: 7px;
+  --br-151xl: 170px;
+}

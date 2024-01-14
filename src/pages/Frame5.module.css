@@ -1,0 +1,367 @@
+.frameChild,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  height: 115px;
+}
+.home {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+.subpage,
+.subpage1,
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  position: absolute;
+  top: 29px;
+  left: 232px;
+  width: 337px;
+  height: 47px;
+  color: var(--color-white);
+}
+.subpage1,
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 602px;
+  width: 368px;
+}
+.subpage2,
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 937px;
+  width: 250px;
+}
+.subpage3,
+.subpage4,
+.subpage5 {
+  left: 1220px;
+  width: 146px;
+}
+.subpage4,
+.subpage5 {
+  left: 1399px;
+  width: 154px;
+}
+.subpage5 {
+  left: 1586px;
+  width: 131px;
+}
+.brokenEssentionalUiHom {
+  position: absolute;
+  top: 29px;
+  left: 77px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.aBriefGuide {
+  position: absolute;
+  top: 505px;
+  left: 602px;
+  font-size: var(--font-size-20xl);
+}
+.whatIsSequent {
+  top: 578px;
+  color: var(--color-coral);
+}
+.coreComponents,
+.sequentCalculusIs,
+.whatIsSequent {
+  position: absolute;
+  left: 96px;
+  font-size: var(--font-size-11xl);
+}
+.sequentCalculusIs {
+  top: 640px;
+  display: inline-block;
+  color: var(--color-gray-300);
+  width: 1439px;
+  height: 192px;
+}
+.coreComponents {
+  top: 807px;
+  color: var(--color-coral);
+}
+.exampleOfA {
+  margin: 0;
+}
+.exampleOfAContainer,
+.rules {
+  position: absolute;
+  left: 96px;
+  display: inline-block;
+  color: var(--color-coral);
+  width: 282px;
+  height: 52px;
+}
+.exampleOfAContainer {
+  top: 1014px;
+  font-size: var(--font-size-11xl);
+}
+.rules {
+  top: 1223px;
+}
+.rules,
+.sequents {
+  font-size: var(--font-size-11xl);
+}
+.sequentsExpressionsIndicatiContainer {
+  position: absolute;
+  top: 869px;
+  left: 96px;
+  color: var(--color-gray-300);
+  font-size: var(--font-size-6xl);
+}
+.anExampleWould {
+  position: absolute;
+  top: 1092px;
+  left: 96px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 1575px;
+}
+.image41Icon {
+  position: absolute;
+  top: 32px;
+  left: 711px;
+  width: 498px;
+  height: 498px;
+  object-fit: cover;
+}
+.wrapperLine23Child {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.018);
+}
+.wrapperLine23 {
+  position: absolute;
+  height: 0.2%;
+  width: 10.01%;
+  top: 82.57%;
+  right: 84.99%;
+  bottom: 17.23%;
+  left: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperGroup15Child {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.173);
+}
+.frameItem,
+.wrapperGroup15 {
+  position: absolute;
+  top: 80.09%;
+}
+.wrapperGroup15 {
+  height: 2.1%;
+  width: 1.02%;
+  right: 93.4%;
+  bottom: 17.81%;
+  left: 5.58%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frameItem {
+  height: 2.06%;
+  width: 1.81%;
+  right: 88.98%;
+  bottom: 17.85%;
+  left: 9.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  height: 9.44%;
+  width: 118.45%;
+  top: 47.22%;
+  right: -10.12%;
+  bottom: 43.33%;
+  left: -8.33%;
+  border-top: 3.4px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.groupItem {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 0;
+  object-fit: cover;
+}
+.a,
+.groupItem,
+.lineParent {
+  position: absolute;
+}
+.lineParent {
+  height: 2.15%;
+  width: 0.88%;
+  top: 80.09%;
+  right: 91.42%;
+  bottom: 17.76%;
+  left: 7.7%;
+}
+.a {
+  height: 3.41%;
+  width: 2.66%;
+  top: 79.74%;
+  left: 11.41%;
+  font-size: var(--font-size-21xl-8);
+  display: inline-block;
+  text-align: center;
+}
+.wrapperGroup18 {
+  position: absolute;
+  height: 2.1%;
+  width: 1.02%;
+  top: 83.51%;
+  right: 93.67%;
+  bottom: 14.39%;
+  left: 5.31%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frameInner {
+  height: 2.06%;
+  width: 1.81%;
+  top: 83.63%;
+  right: 85.27%;
+  bottom: 14.3%;
+  left: 12.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.a1,
+.frameInner,
+.lineGroup {
+  position: absolute;
+}
+.lineGroup {
+  height: 2.15%;
+  width: 0.88%;
+  top: 83.63%;
+  right: 87.7%;
+  bottom: 14.21%;
+  left: 11.42%;
+}
+.a1 {
+  height: 3.41%;
+  width: 4.43%;
+  top: 83.32%;
+  left: 6.35%;
+  font-size: var(--font-size-21xl-8);
+  display: inline-block;
+  white-space: pre-wrap;
+  text-align: center;
+}
+.wrapperGroup21Child {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.318);
+}
+.wrapperGroup21 {
+  position: absolute;
+  height: 0.64%;
+  width: 1.4%;
+  top: 84.11%;
+  right: 91.04%;
+  bottom: 15.25%;
+  left: 7.57%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.l {
+  position: absolute;
+  height: 3.41%;
+  width: 4.53%;
+  top: 80.85%;
+  left: 14.83%;
+  font-size: var(--font-size-21xl-8);
+  display: inline-block;
+  white-space: pre-wrap;
+  text-align: center;
+}
+.wrapperGroup13 {
+  position: absolute;
+  height: 0.64%;
+  width: 1.4%;
+  top: 82.27%;
+  right: 82.75%;
+  bottom: 17.09%;
+  left: 15.85%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.howItWorks,
+.negation {
+  position: absolute;
+  text-align: center;
+}
+.howItWorks {
+  top: 1358px;
+  left: 421px;
+  font-size: var(--font-size-21xl-8);
+}
+.negation {
+  top: 1277px;
+  left: 96px;
+  font-size: 31.8px;
+}
+.rectangleParent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1673px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

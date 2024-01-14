@@ -1,0 +1,24 @@
+.almostThereYour {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.almostThereYourSequentIsnWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 912px;
+  height: 47px;
+}
+.groupParent {
+  position: relative;
+  width: 912px;
+  height: 68px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-20xl-1);
+  color: #c52e2e;
+  font-family: var(--font-inter);
+}

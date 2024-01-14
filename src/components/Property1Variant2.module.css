@@ -1,0 +1,33 @@
+.property1variant2Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-151xl);
+  background-color: var(--color-darkturquoise-100);
+}
+.property1variant2Item {
+  position: absolute;
+  top: calc(50% - 62.5px);
+  left: calc(50% + 27px);
+  border-radius: var(--br-151xl);
+  background-color: var(--color-gray-100);
+  width: 356px;
+  height: 125px;
+}
+.build {
+  position: absolute;
+  top: 21.94%;
+  left: 64.7%;
+}
+.property1variant2 {
+  width: 796px;
+  height: 155px;
+  text-align: center;
+  font-size: var(--font-size-52xl-3);
+  color: var(--color-cornsilk);
+  font-family: var(--font-inter);
+}

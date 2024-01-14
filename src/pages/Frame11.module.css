@@ -1,0 +1,147 @@
+.proofTree {
+  position: absolute;
+  top: 27px;
+  left: 312px;
+  display: inline-block;
+  width: 384px;
+  height: 37px;
+}
+.wrapperLine30Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.011);
+}
+.wrapperLine30 {
+  position: absolute;
+  top: 281.5px;
+  left: 0;
+  width: 642.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine32Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.012);
+}
+.wrapperLine32 {
+  position: absolute;
+  top: 140.8px;
+  left: 99.6px;
+  width: 448.9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine33Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.018);
+}
+.wrapperLine31,
+.wrapperLine33 {
+  position: absolute;
+  top: 70.4px;
+  left: 167.3px;
+  width: 292.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine31 {
+  top: 211.2px;
+  left: 47.8px;
+  width: 556.5px;
+}
+.aBContainer,
+.aBContainer1 {
+  position: absolute;
+  top: 281.5px;
+  left: 25.2px;
+}
+.aBContainer1 {
+  top: 211.2px;
+  left: 47.8px;
+}
+.aBBContainer,
+.aBCContainer {
+  position: absolute;
+  top: 140.8px;
+  left: 111.6px;
+}
+.aBCContainer {
+  top: 70.4px;
+  left: 167.3px;
+}
+.cCContainer,
+.id,
+.l,
+.l1,
+.r {
+  position: absolute;
+  top: 0;
+  left: 248.3px;
+}
+.id,
+.l,
+.l1,
+.r {
+  top: 176.6px;
+  left: 628.2px;
+  color: var(--color-black);
+}
+.id,
+.l1,
+.r {
+  top: 35.9px;
+  left: 482.1px;
+}
+.l1,
+.r {
+  top: 106.2px;
+  left: 576.4px;
+}
+.r {
+  top: 247px;
+  left: 676px;
+}
+.wrapperLine30Parent {
+  position: absolute;
+  top: 90px;
+  left: 98px;
+  width: 812px;
+  height: 352.5px;
+  text-align: left;
+  font-size: var(--font-size-39xl-4);
+  color: var(--color-gray-300);
+}
+.proofTreeParent {
+  position: relative;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-snow);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 723px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-8xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

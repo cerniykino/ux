@@ -1,0 +1,57 @@
+.practiceProblems {
+  position: absolute;
+  height: 67.01%;
+  width: 90.34%;
+  top: 0;
+  left: 4.73%;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+}
+.challengeYourselfEnhance {
+  position: absolute;
+  width: 100%;
+  top: 12.73%;
+  left: 0;
+  display: inline-block;
+}
+.image3Icon {
+  position: absolute;
+  height: 48.05%;
+  width: 37.87%;
+  top: 25.71%;
+  right: 30.77%;
+  bottom: 26.23%;
+  left: 31.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component5Child {
+  position: absolute;
+  height: 14.03%;
+  width: 35.31%;
+  top: 85.97%;
+  right: 31.76%;
+  bottom: 0;
+  left: 32.94%;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-darkturquoise-200);
+  cursor: pointer;
+}
+.component5,
+.solveIt {
+  position: absolute;
+  top: 89.35%;
+  left: 42.41%;
+}
+.component5 {
+  top: 413px;
+  left: 1235px;
+  width: 507px;
+  height: 385px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

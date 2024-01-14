@@ -1,0 +1,1011 @@
+.logicalRules,
+.wrapperGroup7Child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.logicalRules {
+  display: inline-block;
+  white-space: pre-wrap;
+}
+.wrapperGroup7Child {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  transform: scale(1.436);
+}
+.wrapperGroup7 {
+  position: absolute;
+  height: 13.47%;
+  width: 6.38%;
+  top: 20.53%;
+  right: 22.43%;
+  bottom: 66%;
+  left: 71.19%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1default,
+.wrapperGroup71 {
+  position: absolute;
+  top: 59.5px;
+  left: 22.1px;
+  width: 535.9px;
+  height: 75px;
+}
+.wrapperGroup71 {
+  height: 13.47%;
+  width: 6.38%;
+  top: 34.13%;
+  right: 22.43%;
+  bottom: 52.4%;
+  left: 71.19%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blankLine {
+  margin: 0;
+}
+.disjunction {
+  position: absolute;
+  height: 100%;
+  width: 87.44%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.wrapperGroup10 {
+  position: absolute;
+  height: 21.31%;
+  width: 12.98%;
+  top: 39.45%;
+  right: 0;
+  bottom: 39.24%;
+  left: 87.02%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.disjunctionParent,
+.wrapperGroup12 {
+  position: absolute;
+  height: 63.2%;
+  width: 49.17%;
+  top: 198.53%;
+  right: 22.43%;
+  bottom: -161.73%;
+  left: 28.4%;
+}
+.wrapperGroup12 {
+  height: 21.31%;
+  width: 12.98%;
+  top: 27.85%;
+  right: 0;
+  bottom: 50.84%;
+  left: 87.02%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.constantParent,
+.implicationParent,
+.wrapperGroup9 {
+  position: absolute;
+  height: 63.2%;
+  width: 49.17%;
+  top: 324.93%;
+  right: 22.43%;
+  bottom: -288.13%;
+  left: 28.4%;
+}
+.implicationParent,
+.wrapperGroup9 {
+  top: 261.73%;
+  bottom: -224.93%;
+}
+.wrapperGroup9 {
+  height: 21.31%;
+  width: 12.98%;
+  top: 37.13%;
+  right: 0;
+  bottom: 41.56%;
+  left: 87.02%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperGroup9Parent {
+  position: absolute;
+  height: 63.2%;
+  width: 49.17%;
+  top: 130.8%;
+  right: 22.43%;
+  bottom: -94%;
+  left: 28.4%;
+}
+.negation {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.component21,
+.property1variant2 {
+  position: absolute;
+  top: 50.7px;
+  left: 0;
+  width: 535.9px;
+  height: 75px;
+}
+.property1variant2 {
+  top: 134.5px;
+  left: 22.1px;
+}
+.groupChild,
+.groupInner,
+.groupItem {
+  position: absolute;
+  height: 3.3%;
+  width: 30.64%;
+  top: 43.69%;
+  right: 69.36%;
+  bottom: 53%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupInner,
+.groupItem {
+  height: 28.68%;
+  width: 3.12%;
+  top: 9.76%;
+  right: 95.12%;
+  bottom: 61.56%;
+  left: 1.76%;
+}
+.groupInner {
+  height: 28.23%;
+  width: 5.53%;
+  right: 81.6%;
+  bottom: 62.01%;
+  left: 12.87%;
+}
+.lineDiv {
+  position: absolute;
+  height: 11.17%;
+  width: 118.69%;
+  top: 46.19%;
+  right: -10.28%;
+  bottom: 42.64%;
+  left: -8.41%;
+  border-top: 2.2px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.lineIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 0;
+  object-fit: cover;
+}
+.lineParent {
+  position: absolute;
+  height: 29.58%;
+  width: 2.69%;
+  top: 9.76%;
+  right: 89.04%;
+  bottom: 60.66%;
+  left: 8.27%;
+}
+.a,
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 19.66%;
+}
+.groupChild1 {
+  height: 28.68%;
+  width: 3.12%;
+  top: 56.76%;
+  right: 95.93%;
+  bottom: 14.56%;
+  left: 0.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild2,
+.lineGroup {
+  position: absolute;
+  top: 58.26%;
+}
+.groupChild2 {
+  height: 28.23%;
+  width: 5.53%;
+  right: 70.21%;
+  bottom: 13.51%;
+  left: 24.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lineGroup {
+  height: 29.58%;
+  width: 2.69%;
+  right: 77.65%;
+  bottom: 12.16%;
+  left: 19.66%;
+}
+.a1 {
+  top: 47.75%;
+  left: 4.07%;
+  white-space: pre-wrap;
+}
+.a1,
+.groupChild5,
+.l {
+  position: absolute;
+}
+.groupChild5 {
+  height: 8.71%;
+  width: 4.27%;
+  top: 64.71%;
+  right: 87.86%;
+  bottom: 26.58%;
+  left: 7.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.l {
+  top: 20.27%;
+  left: 30.09%;
+  white-space: pre-wrap;
+}
+.groupChild6,
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  position: absolute;
+  height: 8.71%;
+  width: 4.27%;
+  top: 39.64%;
+  right: 62.52%;
+  bottom: 51.65%;
+  left: 33.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  height: 3.3%;
+  width: 30.64%;
+  top: 49.4%;
+  right: 14.45%;
+  bottom: 47.3%;
+  left: 54.9%;
+}
+.groupChild8,
+.groupChild9 {
+  height: 28.68%;
+  width: 3.12%;
+  top: 15.32%;
+  right: 40.22%;
+  bottom: 56.01%;
+  left: 56.66%;
+}
+.groupChild9 {
+  height: 28.23%;
+  width: 5.53%;
+  top: 14.56%;
+  right: 18%;
+  bottom: 57.21%;
+  left: 76.47%;
+}
+.lineContainer {
+  position: absolute;
+  height: 29.58%;
+  width: 2.69%;
+  top: 14.56%;
+  right: 25.47%;
+  bottom: 55.86%;
+  left: 71.85%;
+}
+.groupChild12,
+.groupChild13 {
+  top: 62.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild12 {
+  position: absolute;
+  height: 28.68%;
+  width: 3.12%;
+  right: 41.03%;
+  bottom: 9.01%;
+  left: 55.86%;
+}
+.groupChild13 {
+  height: 28.23%;
+  width: 5.53%;
+  right: 28.58%;
+  bottom: 9.46%;
+  left: 65.89%;
+}
+.groupChild13,
+.groupDiv,
+.r {
+  position: absolute;
+}
+.groupDiv {
+  height: 29.58%;
+  width: 2.69%;
+  top: 62.31%;
+  right: 36.02%;
+  bottom: 8.11%;
+  left: 61.29%;
+}
+.r {
+  top: 25.08%;
+  left: 85.42%;
+  white-space: pre-wrap;
+}
+.groupChild16 {
+  position: absolute;
+  height: 8.71%;
+  width: 4.27%;
+  top: 45.35%;
+  right: 7.59%;
+  bottom: 45.95%;
+  left: 88.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.a2,
+.a3 {
+  position: absolute;
+  top: 5.71%;
+  left: 60.73%;
+}
+.a3 {
+  top: 53.45%;
+  left: 71.85%;
+  white-space: pre-wrap;
+}
+.groupChild17 {
+  position: absolute;
+  height: 8.71%;
+  width: 4.27%;
+  top: 70.42%;
+  right: 20.09%;
+  bottom: 20.87%;
+  left: 75.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorParent {
+  position: absolute;
+  height: 88.8%;
+  width: 74.23%;
+  top: 72%;
+  right: 12.8%;
+  bottom: -60.8%;
+  left: 12.97%;
+  font-size: var(--font-size-6xl-9);
+}
+.component22 {
+  position: absolute;
+  top: 59.5px;
+  left: 0;
+  width: 535.9px;
+  height: 75px;
+}
+.constantGroup,
+.disjunctionGroup,
+.implicationGroup,
+.wrapperGroup9Group {
+  position: absolute;
+  height: 63.2%;
+  width: 49.17%;
+  top: 354.27%;
+  right: 22.43%;
+  bottom: -317.47%;
+  left: 28.4%;
+}
+.constantGroup,
+.implicationGroup,
+.wrapperGroup9Group {
+  top: 480.8%;
+  bottom: -444%;
+}
+.implicationGroup,
+.wrapperGroup9Group {
+  top: 417.47%;
+  bottom: -380.67%;
+}
+.wrapperGroup9Group {
+  top: 286.67%;
+  bottom: -249.87%;
+}
+.component2,
+.property1variant4 {
+  position: absolute;
+  top: 126.8px;
+  left: 437.7px;
+  width: 535.9px;
+  height: 75px;
+}
+.component2 {
+  top: 53.5px;
+  left: 48px;
+  border-radius: 5.51px;
+  border: 1.1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 2138px;
+  height: 1230.5px;
+  font-size: var(--font-size-11xl-9);
+}
+.wrapperGroup75 {
+  position: absolute;
+  height: 13.53%;
+  width: 6.38%;
+  top: 20.59%;
+  right: 22.43%;
+  bottom: 65.88%;
+  left: 71.19%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1default1,
+.wrapperGroup76 {
+  position: absolute;
+  top: 54px;
+  left: 20px;
+  width: 486px;
+  height: 68px;
+}
+.wrapperGroup76 {
+  height: 13.53%;
+  width: 6.38%;
+  top: 34.12%;
+  right: 22.43%;
+  bottom: 52.35%;
+  left: 71.19%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component23 {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  width: 486px;
+  height: 68px;
+}
+.disjunction4,
+.wrapperGroup10Inner {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.disjunction4 {
+  width: 87.45%;
+  display: inline-block;
+}
+.wrapperGroup10Inner {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  transform: scale(1.435);
+}
+.wrapperGroup102 {
+  position: absolute;
+  height: 21.4%;
+  width: 12.97%;
+  top: 39.53%;
+  right: 0;
+  bottom: 39.07%;
+  left: 87.03%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.disjunctionContainer,
+.wrapperGroup122 {
+  position: absolute;
+  height: 63.24%;
+  width: 49.18%;
+  top: 198.53%;
+  right: 22.43%;
+  bottom: -161.76%;
+  left: 28.4%;
+}
+.wrapperGroup122 {
+  height: 21.4%;
+  width: 12.97%;
+  top: 27.91%;
+  right: 0;
+  bottom: 50.7%;
+  left: 87.03%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.constantContainer,
+.implicationContainer,
+.wrapperGroup92 {
+  position: absolute;
+  height: 63.24%;
+  width: 49.18%;
+  top: 325%;
+  right: 22.43%;
+  bottom: -288.24%;
+  left: 28.4%;
+}
+.implicationContainer,
+.wrapperGroup92 {
+  top: 261.76%;
+  bottom: -225%;
+}
+.wrapperGroup92 {
+  height: 21.4%;
+  width: 12.97%;
+  top: 37.21%;
+  right: 0;
+  bottom: 41.4%;
+  left: 87.03%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperGroup9Container {
+  position: absolute;
+  height: 63.24%;
+  width: 49.18%;
+  top: 130.88%;
+  right: 22.43%;
+  bottom: -94.12%;
+  left: 28.4%;
+}
+.component3,
+.property1variant21 {
+  position: absolute;
+  top: 122px;
+  left: 20px;
+  width: 486px;
+  height: 68px;
+}
+.component3 {
+  top: 337px;
+  left: 2192px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 537px;
+  height: 413px;
+  font-size: var(--font-size-9xl);
+}
+.image1Icon {
+  position: absolute;
+  top: 1357px;
+  left: 72px;
+  width: 932px;
+  height: 396px;
+  object-fit: cover;
+}
+.property1defaultChild,
+.property1defaultItem {
+  position: absolute;
+  border-radius: var(--br-151xl);
+}
+.property1defaultChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkturquoise-100);
+}
+.property1defaultItem {
+  height: 80.65%;
+  top: 9.03%;
+  bottom: 10.32%;
+  left: 16px;
+  background-color: var(--color-gray-100);
+  width: 356px;
+}
+.solve {
+  position: absolute;
+  top: 21.29%;
+  left: 12.19%;
+}
+.property1default2 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 796px;
+  height: 155px;
+}
+.property1variant2Item {
+  position: absolute;
+  top: calc(50% - 62.5px);
+  left: calc(50% + 27px);
+  border-radius: var(--br-151xl);
+  background-color: var(--color-gray-100);
+  width: 356px;
+  height: 125px;
+}
+.build {
+  position: absolute;
+  top: 21.94%;
+  left: 64.7%;
+}
+.component17,
+.property1variant22 {
+  position: absolute;
+  top: 195px;
+  left: 20px;
+  width: 796px;
+  height: 155px;
+}
+.component17 {
+  top: 1412px;
+  left: 1609px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 836px;
+  height: 370px;
+  overflow: hidden;
+  font-size: var(--font-size-52xl-3);
+  color: var(--color-cornsilk);
+}
+.wrapperLine30Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.011);
+}
+.wrapperLine30 {
+  position: absolute;
+  top: 281.5px;
+  left: 0;
+  width: 655px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine32Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.012);
+}
+.wrapperLine32 {
+  position: absolute;
+  top: 140.8px;
+  left: 101.5px;
+  width: 457.4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine33Child {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  transform: scale(1.018);
+}
+.wrapperLine31,
+.wrapperLine33 {
+  position: absolute;
+  top: 70.4px;
+  left: 170.5px;
+  width: 297.7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperLine31 {
+  top: 211.2px;
+  left: 48.7px;
+  width: 567px;
+}
+.aBBContainer,
+.aBContainer,
+.aBContainer1 {
+  position: absolute;
+  top: 281.5px;
+  left: 25.7px;
+  display: inline-block;
+  width: 614.4px;
+}
+.aBBContainer,
+.aBContainer1 {
+  top: 211.2px;
+  left: 48.7px;
+  width: 556.4px;
+}
+.aBBContainer {
+  top: 140.8px;
+  left: 113.7px;
+  width: 426.9px;
+}
+.aBCContainer,
+.cCContainer,
+.id,
+.l1,
+.l2,
+.r1 {
+  position: absolute;
+  top: 70.4px;
+  left: 170.5px;
+  display: inline-block;
+  width: 298.6px;
+}
+.cCContainer,
+.id,
+.l1,
+.l2,
+.r1 {
+  top: 0;
+  left: 253.1px;
+  width: 152.8px;
+}
+.id,
+.l1,
+.l2,
+.r1 {
+  top: 176.6px;
+  left: 640.1px;
+  color: var(--color-black);
+  width: 133.5px;
+}
+.id,
+.l2,
+.r1 {
+  top: 35.9px;
+  left: 491.2px;
+  width: 96.8px;
+}
+.l2,
+.r1 {
+  top: 106.2px;
+  left: 587.3px;
+  width: 133.5px;
+}
+.r1 {
+  top: 247px;
+  left: 688.8px;
+  width: 138.6px;
+}
+.wrapperLine30Parent {
+  position: absolute;
+  top: 2011px;
+  left: 83px;
+  width: 827.4px;
+  height: 352.5px;
+  text-align: left;
+  color: var(--color-gray-300);
+}
+.aBContainer2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.playIcon,
+.playIcon1 {
+  position: absolute;
+  top: 83px;
+  left: -17px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.playIcon1 {
+  left: 547px;
+}
+.property1default3 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 603px;
+  height: 71px;
+}
+.r2 {
+  position: absolute;
+  top: -36px;
+  left: 637px;
+  color: var(--color-black);
+}
+.aBContainer4,
+.wrapperLine301 {
+  position: absolute;
+  top: -69.8px;
+  left: 27.8px;
+}
+.wrapperLine301 {
+  top: 0.5px;
+  left: -20px;
+  width: 642.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.playIcon2,
+.playIcon3 {
+  position: absolute;
+  top: 90px;
+  left: -17px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.playIcon3 {
+  left: 547px;
+}
+.property1variant23 {
+  position: absolute;
+  top: 281px;
+  left: 20px;
+  width: 603px;
+  height: 71px;
+}
+.aBBContainer1,
+.wrapperLine311 {
+  position: absolute;
+  top: -148px;
+  left: 91px;
+}
+.wrapperLine311 {
+  top: -70px;
+  left: 28px;
+  width: 556.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.l3 {
+  position: absolute;
+  top: -105px;
+  left: 603px;
+  color: var(--color-black);
+}
+.property1variant3,
+.property1variant41 {
+  position: absolute;
+  top: 781px;
+  left: 20px;
+  width: 603px;
+  height: 71px;
+}
+.property1variant41 {
+  top: 371px;
+  left: 895px;
+}
+.wrapperLine321 {
+  position: absolute;
+  top: -146px;
+  left: 62px;
+  width: 448.9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.l5 {
+  position: absolute;
+  top: -181px;
+  left: 517px;
+  display: inline-block;
+  color: var(--color-black);
+  width: 133.5px;
+}
+.aBCContainer1 {
+  position: absolute;
+  top: -219px;
+  left: 145px;
+}
+.property1variant5 {
+  position: absolute;
+  top: 871px;
+  left: 968px;
+  width: 603px;
+  height: 71px;
+}
+.cCContainer1,
+.id1 {
+  position: absolute;
+  display: inline-block;
+}
+.id1 {
+  top: -255px;
+  left: 453px;
+  color: var(--color-black);
+  width: 96.8px;
+}
+.cCContainer1 {
+  top: -290px;
+  left: 210px;
+  width: 152.8px;
+}
+.wrapperLine331 {
+  position: absolute;
+  top: -219px;
+  left: 137px;
+  width: 297.7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.aBBCAC,
+.property1variant6 {
+  position: absolute;
+  top: 461px;
+  left: 1824px;
+  width: 603px;
+  height: 71px;
+}
+.aBBCAC {
+  top: 3137px;
+  left: 56px;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 2726px;
+  height: 1291px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--color-gray-300);
+}
+.component2Parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4180px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-39xl-4);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

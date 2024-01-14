@@ -1,0 +1,108 @@
+.wrapperGroup25Child {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.173);
+}
+.wrapperGroup25 {
+  position: absolute;
+  height: 61.58%;
+  width: 10.83%;
+  top: 5.61%;
+  right: 89.17%;
+  bottom: 32.81%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1defaultChild {
+  position: absolute;
+  height: 60.53%;
+  width: 19.18%;
+  top: 9.12%;
+  right: -0.06%;
+  bottom: 30.35%;
+  left: 80.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  height: 9.44%;
+  width: 118.45%;
+  top: 47.22%;
+  right: -10.12%;
+  bottom: 43.33%;
+  left: -8.33%;
+  border-top: 3.4px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.groupItem {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 0;
+  object-fit: cover;
+}
+.lineParent {
+  position: absolute;
+  height: 63.16%;
+  width: 9.29%;
+  top: 9.12%;
+  right: 25.82%;
+  bottom: 27.72%;
+  left: 64.9%;
+}
+.a,
+.wrapperGroup28Child {
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.a {
+  width: 46.99%;
+  left: 11.06%;
+  display: inline-block;
+  white-space: pre-wrap;
+}
+.wrapperGroup28Child {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  left: 0;
+  transform: scale(1.318);
+}
+.wrapperGroup28 {
+  position: absolute;
+  height: 18.77%;
+  width: 14.81%;
+  top: 22.98%;
+  right: 61.19%;
+  bottom: 58.25%;
+  left: 23.99%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1default {
+  width: 180.9px;
+  height: 57px;
+  text-align: center;
+  font-size: var(--font-size-21xl-8);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

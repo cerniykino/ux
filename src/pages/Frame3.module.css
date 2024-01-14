@@ -1,0 +1,155 @@
+.frameChild,
+.home {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frameChild {
+  background-color: var(--color-gray-300);
+  width: 1920px;
+  height: 115px;
+}
+.home {
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+}
+.subpage,
+.subpage1,
+.subpage2,
+.subpage3 {
+  position: absolute;
+  top: 29px;
+  left: 232px;
+  width: 337px;
+  height: 47px;
+}
+.subpage1,
+.subpage2,
+.subpage3 {
+  left: 602px;
+  width: 368px;
+}
+.subpage2,
+.subpage3 {
+  left: 937px;
+  width: 250px;
+}
+.subpage3 {
+  left: 1220px;
+  width: 146px;
+}
+.brokenEssentionalUiHom,
+.subpage4,
+.subpage5 {
+  position: absolute;
+  top: 29px;
+  left: 1399px;
+  width: 154px;
+  height: 47px;
+}
+.brokenEssentionalUiHom,
+.subpage5 {
+  left: 1586px;
+  width: 131px;
+}
+.brokenEssentionalUiHom {
+  left: 77px;
+  width: 38px;
+  height: 38px;
+  overflow: hidden;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image51Icon {
+  position: absolute;
+  top: 133px;
+  left: 746px;
+  width: 427px;
+  height: 427px;
+  object-fit: cover;
+}
+.practiceProblemsSharpen {
+  position: absolute;
+  top: 617px;
+  left: 417px;
+  font-size: var(--font-size-20xl-1);
+  color: var(--color-gray-300);
+  text-align: center;
+}
+.abVC,
+.abbcAc {
+  position: absolute;
+}
+.abbcAc {
+  top: 766px;
+  left: 148px;
+  font-size: var(--font-size-20xl-1);
+  color: var(--color-darkslategray);
+  text-align: center;
+  cursor: pointer;
+}
+.abVC {
+  top: 0;
+  left: 0;
+}
+.v,
+.v1 {
+  top: 47px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.v {
+  position: absolute;
+  left: 67px;
+}
+.v1 {
+  left: 318px;
+}
+.v1,
+.v2,
+.v3 {
+  position: absolute;
+}
+.v2 {
+  top: 47px;
+  left: 491px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.v3 {
+  top: 0;
+  left: 371px;
+}
+.aAV,
+.aabVC,
+.abVCAbacParent {
+  position: absolute;
+  left: 148px;
+  font-size: var(--font-size-20xl-1);
+  color: var(--color-darkslategray);
+  text-align: center;
+}
+.abVCAbacParent {
+  top: 1021px;
+  width: 560px;
+  height: 47px;
+}
+.aAV,
+.aabVC {
+  top: 936px;
+}
+.aabVC {
+  top: 851px;
+}
+.rectangleParent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1427px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

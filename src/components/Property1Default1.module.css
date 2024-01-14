@@ -1,0 +1,39 @@
+.logicalRules,
+.wrapperGroup7Child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.logicalRules {
+  display: inline-block;
+  white-space: pre-wrap;
+}
+.wrapperGroup7Child {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  transform: scale(1.436);
+}
+.wrapperGroup7 {
+  position: absolute;
+  height: 13.47%;
+  width: 6.38%;
+  top: 20.53%;
+  right: 22.43%;
+  bottom: 66%;
+  left: 71.19%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.property1default {
+  width: 535.9px;
+  height: 75px;
+  text-align: center;
+  font-size: var(--font-size-11xl-9);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

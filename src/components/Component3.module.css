@@ -1,0 +1,58 @@
+.interactiveProofBuilder {
+  position: absolute;
+  height: 67.01%;
+  width: 90.34%;
+  top: 0;
+  left: 4.73%;
+  font-size: var(--font-size-16xl);
+  display: inline-block;
+}
+.solvePredictVisualize {
+  position: absolute;
+  width: 100%;
+  top: 12.73%;
+  left: 0;
+  display: inline-block;
+}
+.component3Child,
+.image3Icon {
+  position: absolute;
+  right: 31.76%;
+}
+.image3Icon {
+  height: 43.64%;
+  width: 36.69%;
+  top: 30.91%;
+  bottom: 25.45%;
+  left: 31.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component3Child {
+  height: 14.03%;
+  width: 35.31%;
+  top: 85.97%;
+  bottom: 0;
+  left: 32.94%;
+  border-radius: var(--br-23xl);
+  background-color: var(--color-darkturquoise-200);
+  cursor: pointer;
+}
+.component3,
+.tryItOut {
+  position: absolute;
+  top: 89.35%;
+  left: 40.63%;
+}
+.component3 {
+  top: 413px;
+  left: 175px;
+  width: 507px;
+  height: 385px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
